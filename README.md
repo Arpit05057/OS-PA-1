@@ -323,3 +323,6 @@ Part A demonstrates how a 32-bit ELF executable can be manually loaded and execu
 Part B demonstrates the basic x86 boot process using a 16-bit boot sector. The bootloader fits within 512 bytes, uses `0x7C00` as its execution origin, ends with the `0x55AA` boot signature and displays a message through the BIOS video service.
 
 Together, both parts demonstrate the fundamental process of loading executable code, transferring control to it and executing low-level x86 code.
+## Ai Help Links
+Chatgpt.com(for Readme.md): https://chatgpt.com/c/6a8efc61-620c-83ee-a5bb-f4722c54ed7d
+Claude.ai(for Part-A&B): https://claude.ai/chat/f4af2aa8-2927-4bf1-b07b-8d7244c7b4bf
